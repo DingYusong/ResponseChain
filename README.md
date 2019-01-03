@@ -1,1 +1,1 @@
-# ResponseChain
+# ResponseChainPattern
